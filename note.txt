@@ -1,0 +1,15 @@
+------------------------
+	vMart
+    luqman.web.id
+------------------------
+
+Lokasi Config Database : includes/koneksi.php
+
+Akun Admin :
+	Username : admin
+	Password : admin
+
+
+Akun User :
+	Username : luqman
+	Password : luqman
