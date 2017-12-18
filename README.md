@@ -1,2 +1,2 @@
 # SistemInformasiOnlineShop-IMPAL
-repo untuk progress mata kuliah implemetasi dan pengujian perangkat lunak
+Dikarenakan file terlalu banyak, source code kami diupload di google drive
